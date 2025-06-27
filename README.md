@@ -2,7 +2,7 @@
 
 > Um site-portfólio em Next.js, criado para destacar projetos e talentos, com foco em design minimalista e performance de carregamento.
 
-⭐ **Link para o Projeto ao Vivo: [[COLE O LINK DA VERCEL AQUI](https://lidy-projectv2.vercel.app/)]**
+⭐ **Link para o Projeto ao Vivo: [[CLIQUE AQUI PARA VER O PROJETO](https://lidy-projectv2.vercel.app/)]**
 
 ---
 
